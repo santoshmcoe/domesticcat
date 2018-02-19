@@ -1,0 +1,24 @@
+.container{
+  border: 1px solid lightgrey;
+  padding:8px;
+  width: 300px;
+  box-shadow: 10px 10px 18px -8px rgba(171,166,171,1);
+}
+.fact{
+  margin-top: 10px;
+  border: 1px solid lightgrey;
+  padding:8px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.italize{
+  font-style: italic;
+}
+.lsnone{
+  list-style-type: none;
+  list-style-position: inside;
+  padding-left:0;
+}
+.bold{
+  font-weight: bold;
+}
